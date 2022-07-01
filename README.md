@@ -1,5 +1,5 @@
 <div align="center">
 
-https://scrimba.com/certificate/uqrabMTy/gfrontend
+  <img src="https://i.ibb.co/JBpnnGD/Scrimba-Certificate.jpg"> 
 
 </div>
